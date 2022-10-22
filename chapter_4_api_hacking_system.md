@@ -1,5 +1,8 @@
 # Your API hacking system
 
+## kali linux
+Linux distro packed with many security tools. I created a virtual machine in VirtualBox, the user is `giant` and the password is `123`
+
 ## Burp suite
 
 Burp suite is a tool to scan and fuzz a web API
