@@ -1,4 +1,4 @@
-# Introduction to APIs
+# The anatomy of web APIs
 
 ## Types of APIs
 - SOAP -> XML
